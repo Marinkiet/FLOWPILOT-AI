@@ -1,0 +1,25 @@
+{
+  "name": "flowpilot-ai",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI-powered Software Quality Engineering agent. Don't just test your app. Walk through it.",
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "server"
+  ],
+  "scripts": {
+    "dev": "concurrently -n \"server,dashboard,demo\" -c \"cyan,green,yellow\" \"npm run dev --workspace=server\" \"npm run dev --workspace=apps/dashboard\" \"npm run dev --workspace=apps/demo-shop\"",
+    "build": "npm run build --workspace=packages/shared && npm run build --workspace=packages/agent-core && npm run build --workspace=packages/browser-runner && npm run build --workspace=packages/flow-architect && npm run build --workspace=server && npm run build --workspace=apps/dashboard && npm run build --workspace=apps/demo-shop",
+    "typecheck": "tsc --build",
+    "lint": "eslint . --ext .ts,.tsx",
+    "clean": "find . -name 'dist' -not -path '**/node_modules/**' -exec rm -rf {} + 2>/dev/null; find . -name 'node_modules' -maxdepth 2 -exec rm -rf {} + 2>/dev/null; echo 'Clean done'"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
+    "@typescript-eslint/parser": "^7.0.0",
+    "concurrently": "^8.2.2",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.0"
+  }
+}
