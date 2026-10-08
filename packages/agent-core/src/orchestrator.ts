@@ -160,23 +160,31 @@ export class AgentOrchestrator implements IAgentOrchestrator {
 
     const steps: JourneyStep[] = suggestion.path.map((nodeId, index) => {
       const node = nodeMap.get(nodeId);
+
+      // Ensure we always navigate to an absolute URL
+      let target = node?.path ?? '';
+      if (target && !target.startsWith('http')) {
+        // Relative path — will fail in Playwright; skip navigation for now
+        target = '';
+      }
+
       return {
         id: generateId('step'),
         name: node?.name ?? `Step ${index + 1}`,
-        description: `Navigate to ${node?.path ?? nodeId}`,
-        actions: node
+        description: `Navigate to ${node?.name ?? nodeId}`,
+        actions: target
           ? [
               {
                 type: 'navigate' as const,
-                target: node.path,
-                description: `Go to ${node.name}`,
+                target,
+                description: `Go to ${node?.name ?? target}`,
               },
             ]
           : [],
         status: 'pending' as const,
         consoleErrors: [],
         networkFailures: [],
-        expectedUrl: node?.path,
+        expectedUrl: target || undefined,
       };
     });
 

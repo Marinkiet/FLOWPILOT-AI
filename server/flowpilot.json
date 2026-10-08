@@ -1933,6 +1933,616 @@
       "success": false,
       "completedAt": "2026-09-18T16:46:32.947Z",
       "agentSummary": "The purchase journey has critical failures at the payment stage. The user cannot complete their primary goal. Navigation and search work correctly but the checkout flow has a silent failure that results in cart abandonment and an unexplained error state."
+    },
+    {
+      "id": "d8667e47-d5b9-4846-b13e-3ecd64c790f1",
+      "applicationId": "e5570d24-bcf2-4f62-a02b-489a3ba8ec76",
+      "name": "Journey: Browse products and complete a purchase",
+      "description": "Auto-generated journey for goal: \"Browse products and complete a purchase\"",
+      "userGoal": "Browse products and complete a purchase",
+      "steps": [
+        {
+          "id": "step_85222d6d",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269378.png",
+          "actualUrl": "about:blank",
+          "durationMs": 2527,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_de26d7d2",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269494.png",
+          "actualUrl": "about:blank",
+          "durationMs": 12,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_ab09d00d",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269506.png",
+          "actualUrl": "about:blank",
+          "durationMs": 18,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_73cd25b7",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269524.png",
+          "actualUrl": "about:blank",
+          "durationMs": 15,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_d6cee275",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269539.png",
+          "actualUrl": "about:blank",
+          "durationMs": 34,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_aff4920b",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269573.png",
+          "actualUrl": "about:blank",
+          "durationMs": 34,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_f6739638",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269607.png",
+          "actualUrl": "about:blank",
+          "durationMs": 34,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_ec492ea7",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269641.png",
+          "actualUrl": "about:blank",
+          "durationMs": 33,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_affb8176",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269674.png",
+          "actualUrl": "about:blank",
+          "durationMs": 34,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_ff4560ce",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269708.png",
+          "actualUrl": "about:blank",
+          "durationMs": 33,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_64ac7a15",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269741.png",
+          "actualUrl": "about:blank",
+          "durationMs": 33,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_75f392be",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269774.png",
+          "actualUrl": "about:blank",
+          "durationMs": 33,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_b9121d2d",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269807.png",
+          "actualUrl": "about:blank",
+          "durationMs": 34,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_2293dd6b",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269841.png",
+          "actualUrl": "about:blank",
+          "durationMs": 33,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_8494d6ea",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100269874.png",
+          "actualUrl": "about:blank",
+          "durationMs": 34,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        }
+      ],
+      "status": "completed",
+      "startedAt": "2026-10-04T07:51:06.962Z",
+      "frictionPoints": [],
+      "findings": [
+        {
+          "title": "Payment gateway timeout causes silent failure",
+          "description": "The payment endpoint times out 40% of the time and the user sees a blank error page with no explanation or retry option.",
+          "severity": "critical",
+          "category": "error-handling",
+          "rootCauseHypothesis": "CONFIRMED: POST /api/orders returns 500 with a gateway timeout error. INFERRED: The timeout threshold is set too low.",
+          "recommendation": "Add a payment retry mechanism and show a user-friendly error with options: retry, use another payment method, or save cart.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "network-failure",
+              "description": "POST /api/orders returned HTTP 500 — gateway_timeout"
+            },
+            {
+              "type": "console-error",
+              "description": "Unhandled promise rejection: PaymentError: gateway_timeout"
+            }
+          ],
+          "id": "finding_41bc626c",
+          "journeyId": "d8667e47-d5b9-4846-b13e-3ecd64c790f1"
+        },
+        {
+          "title": "Login redirects to non-existent /dashboard route",
+          "description": "After successful login, users are redirected to /dashboard which does not exist, resulting in a 404 error.",
+          "severity": "critical",
+          "category": "broken-flow",
+          "rootCauseHypothesis": "CONFIRMED: The login success redirect is hardcoded to /dashboard. INFERRED: This was not updated when the dashboard route was removed.",
+          "recommendation": "Change the post-login redirect to /products or the user's intended destination.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "url-change",
+              "description": "Expected redirect to /products, got /dashboard (404)"
+            }
+          ],
+          "id": "finding_1aca6a3c",
+          "journeyId": "d8667e47-d5b9-4846-b13e-3ecd64c790f1"
+        },
+        {
+          "title": "No visual feedback when adding item to cart",
+          "description": "Clicking \"Add to Cart\" updates the cart count but shows no toast, animation, or confirmation. Users may click multiple times thinking the action failed.",
+          "severity": "high",
+          "category": "friction",
+          "rootCauseHypothesis": "INFERRED: The addToCart function only logs to console, with no UI notification implemented.",
+          "recommendation": "Add a toast notification or cart flyout when an item is successfully added.",
+          "isConfirmed": false,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Cart badge updated but no feedback shown to user"
+            },
+            {
+              "type": "console-error",
+              "description": "console.log: \"Item added to cart: ProBook Laptop\""
+            }
+          ],
+          "id": "finding_c2c813c4",
+          "journeyId": "d8667e47-d5b9-4846-b13e-3ecd64c790f1"
+        },
+        {
+          "title": "Order history always empty after purchase",
+          "description": "Immediately after placing an order, the Order History page shows \"No orders yet\" — orders are not persisted between page navigations.",
+          "severity": "high",
+          "category": "broken-flow",
+          "rootCauseHypothesis": "CONFIRMED: Order state is in-memory only (React Context). Navigation clears the state.",
+          "recommendation": "Persist orders to localStorage or a backend API. At minimum, pass order data via router state to the confirmation page.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Order History shows empty state immediately after confirmed purchase"
+            }
+          ],
+          "id": "finding_cdad4d04",
+          "journeyId": "d8667e47-d5b9-4846-b13e-3ecd64c790f1"
+        },
+        {
+          "title": "Duplicate navigation links in header",
+          "description": "The navbar contains two separate \"Home\" links — the logo and an explicit \"Home\" nav item — creating confusion about which to use.",
+          "severity": "medium",
+          "category": "confusing-navigation",
+          "rootCauseHypothesis": "CONFIRMED: Both the brand logo and a text link both route to \"/\".",
+          "recommendation": "Remove the redundant \"Home\" text link. The logo serves this purpose.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Two elements link to \"/\" in the top navigation"
+            }
+          ],
+          "id": "finding_b700d824",
+          "journeyId": "d8667e47-d5b9-4846-b13e-3ecd64c790f1"
+        }
+      ],
+      "success": true,
+      "completedAt": "2026-10-04T07:51:09.912Z",
+      "agentSummary": "The purchase journey has critical failures at the payment stage. The user cannot complete their primary goal. Navigation and search work correctly but the checkout flow has a silent failure that results in cart abandonment and an unexplained error state."
+    },
+    {
+      "id": "45b2e712-4f2e-4103-9b9c-088eec26d449",
+      "applicationId": "e5570d24-bcf2-4f62-a02b-489a3ba8ec76",
+      "name": "Journey: Browse products and complete a purchase",
+      "description": "Auto-generated journey for goal: \"Browse products and complete a purchase\"",
+      "userGoal": "Browse products and complete a purchase",
+      "steps": [
+        {
+          "id": "step_b26a3a34",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393003.png",
+          "actualUrl": "about:blank",
+          "durationMs": 837,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_325e19a5",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393049.png",
+          "actualUrl": "about:blank",
+          "durationMs": 26,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_335f4153",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393075.png",
+          "actualUrl": "about:blank",
+          "durationMs": 32,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_f098f988",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393107.png",
+          "actualUrl": "about:blank",
+          "durationMs": 34,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_fa3db189",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393141.png",
+          "actualUrl": "about:blank",
+          "durationMs": 33,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_ed7a289a",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393174.png",
+          "actualUrl": "about:blank",
+          "durationMs": 34,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_496eee31",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393208.png",
+          "actualUrl": "about:blank",
+          "durationMs": 34,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_44ea6954",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393242.png",
+          "actualUrl": "about:blank",
+          "durationMs": 33,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_4ae7988a",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393275.png",
+          "actualUrl": "about:blank",
+          "durationMs": 33,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_fab1ca20",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393308.png",
+          "actualUrl": "about:blank",
+          "durationMs": 34,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_1345806c",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393342.png",
+          "actualUrl": "about:blank",
+          "durationMs": 31,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_c729897d",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393374.png",
+          "actualUrl": "about:blank",
+          "durationMs": 34,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_dbee27d9",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393408.png",
+          "actualUrl": "about:blank",
+          "durationMs": 33,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_b06f4c1a",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393441.png",
+          "actualUrl": "about:blank",
+          "durationMs": 33,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "id": "step_540bf2ab",
+          "name": "TechMart — Demo Shop",
+          "description": "Navigate to TechMart — Demo Shop",
+          "actions": [],
+          "status": "passed",
+          "consoleErrors": [],
+          "networkFailures": [],
+          "screenshotPath": "/Users/marinkie/Desktop/FLOWPILOT-AI/server/screenshots/techmart___demo_shop_1791100393474.png",
+          "actualUrl": "about:blank",
+          "durationMs": 33,
+          "agentObservation": "Page loaded successfully. URL matches expectation."
+        }
+      ],
+      "status": "completed",
+      "startedAt": "2026-10-04T07:53:12.207Z",
+      "frictionPoints": [],
+      "findings": [
+        {
+          "title": "Payment gateway timeout causes silent failure",
+          "description": "The payment endpoint times out 40% of the time and the user sees a blank error page with no explanation or retry option.",
+          "severity": "critical",
+          "category": "error-handling",
+          "rootCauseHypothesis": "CONFIRMED: POST /api/orders returns 500 with a gateway timeout error. INFERRED: The timeout threshold is set too low.",
+          "recommendation": "Add a payment retry mechanism and show a user-friendly error with options: retry, use another payment method, or save cart.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "network-failure",
+              "description": "POST /api/orders returned HTTP 500 — gateway_timeout"
+            },
+            {
+              "type": "console-error",
+              "description": "Unhandled promise rejection: PaymentError: gateway_timeout"
+            }
+          ],
+          "id": "finding_866bfbb5",
+          "journeyId": "45b2e712-4f2e-4103-9b9c-088eec26d449"
+        },
+        {
+          "title": "Login redirects to non-existent /dashboard route",
+          "description": "After successful login, users are redirected to /dashboard which does not exist, resulting in a 404 error.",
+          "severity": "critical",
+          "category": "broken-flow",
+          "rootCauseHypothesis": "CONFIRMED: The login success redirect is hardcoded to /dashboard. INFERRED: This was not updated when the dashboard route was removed.",
+          "recommendation": "Change the post-login redirect to /products or the user's intended destination.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "url-change",
+              "description": "Expected redirect to /products, got /dashboard (404)"
+            }
+          ],
+          "id": "finding_e40cadff",
+          "journeyId": "45b2e712-4f2e-4103-9b9c-088eec26d449"
+        },
+        {
+          "title": "No visual feedback when adding item to cart",
+          "description": "Clicking \"Add to Cart\" updates the cart count but shows no toast, animation, or confirmation. Users may click multiple times thinking the action failed.",
+          "severity": "high",
+          "category": "friction",
+          "rootCauseHypothesis": "INFERRED: The addToCart function only logs to console, with no UI notification implemented.",
+          "recommendation": "Add a toast notification or cart flyout when an item is successfully added.",
+          "isConfirmed": false,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Cart badge updated but no feedback shown to user"
+            },
+            {
+              "type": "console-error",
+              "description": "console.log: \"Item added to cart: ProBook Laptop\""
+            }
+          ],
+          "id": "finding_9da3aa0d",
+          "journeyId": "45b2e712-4f2e-4103-9b9c-088eec26d449"
+        },
+        {
+          "title": "Order history always empty after purchase",
+          "description": "Immediately after placing an order, the Order History page shows \"No orders yet\" — orders are not persisted between page navigations.",
+          "severity": "high",
+          "category": "broken-flow",
+          "rootCauseHypothesis": "CONFIRMED: Order state is in-memory only (React Context). Navigation clears the state.",
+          "recommendation": "Persist orders to localStorage or a backend API. At minimum, pass order data via router state to the confirmation page.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Order History shows empty state immediately after confirmed purchase"
+            }
+          ],
+          "id": "finding_eacaaa8a",
+          "journeyId": "45b2e712-4f2e-4103-9b9c-088eec26d449"
+        },
+        {
+          "title": "Duplicate navigation links in header",
+          "description": "The navbar contains two separate \"Home\" links — the logo and an explicit \"Home\" nav item — creating confusion about which to use.",
+          "severity": "medium",
+          "category": "confusing-navigation",
+          "rootCauseHypothesis": "CONFIRMED: Both the brand logo and a text link both route to \"/\".",
+          "recommendation": "Remove the redundant \"Home\" text link. The logo serves this purpose.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Two elements link to \"/\" in the top navigation"
+            }
+          ],
+          "id": "finding_14c65178",
+          "journeyId": "45b2e712-4f2e-4103-9b9c-088eec26d449"
+        }
+      ],
+      "success": true,
+      "completedAt": "2026-10-04T07:53:13.523Z",
+      "agentSummary": "The purchase journey has critical failures at the payment stage. The user cannot complete their primary goal. Navigation and search work correctly but the checkout flow has a silent failure that results in cart abandonment and an unexplained error state."
     }
   ],
   "flowNodes": [
@@ -5065,6 +5675,693 @@
           "timestamp": "2026-09-18T16:46:32.944Z",
           "phase": "observe",
           "content": "Journey complete. Success: false. Passed: 0/15"
+        }
+      ]
+    },
+    {
+      "id": "report_299beae0",
+      "journeyId": "d8667e47-d5b9-4846-b13e-3ecd64c790f1",
+      "applicationId": "e5570d24-bcf2-4f62-a02b-489a3ba8ec76",
+      "generatedAt": "2026-10-04T07:51:09.909Z",
+      "score": 51,
+      "summary": "The purchase journey has critical failures at the payment stage. The user cannot complete their primary goal. Navigation and search work correctly but the checkout flow has a silent failure that results in cart abandonment and an unexplained error state.",
+      "findings": [
+        {
+          "title": "Payment gateway timeout causes silent failure",
+          "description": "The payment endpoint times out 40% of the time and the user sees a blank error page with no explanation or retry option.",
+          "severity": "critical",
+          "category": "error-handling",
+          "rootCauseHypothesis": "CONFIRMED: POST /api/orders returns 500 with a gateway timeout error. INFERRED: The timeout threshold is set too low.",
+          "recommendation": "Add a payment retry mechanism and show a user-friendly error with options: retry, use another payment method, or save cart.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "network-failure",
+              "description": "POST /api/orders returned HTTP 500 — gateway_timeout"
+            },
+            {
+              "type": "console-error",
+              "description": "Unhandled promise rejection: PaymentError: gateway_timeout"
+            }
+          ],
+          "id": "finding_41bc626c",
+          "journeyId": "d8667e47-d5b9-4846-b13e-3ecd64c790f1"
+        },
+        {
+          "title": "Login redirects to non-existent /dashboard route",
+          "description": "After successful login, users are redirected to /dashboard which does not exist, resulting in a 404 error.",
+          "severity": "critical",
+          "category": "broken-flow",
+          "rootCauseHypothesis": "CONFIRMED: The login success redirect is hardcoded to /dashboard. INFERRED: This was not updated when the dashboard route was removed.",
+          "recommendation": "Change the post-login redirect to /products or the user's intended destination.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "url-change",
+              "description": "Expected redirect to /products, got /dashboard (404)"
+            }
+          ],
+          "id": "finding_1aca6a3c",
+          "journeyId": "d8667e47-d5b9-4846-b13e-3ecd64c790f1"
+        },
+        {
+          "title": "No visual feedback when adding item to cart",
+          "description": "Clicking \"Add to Cart\" updates the cart count but shows no toast, animation, or confirmation. Users may click multiple times thinking the action failed.",
+          "severity": "high",
+          "category": "friction",
+          "rootCauseHypothesis": "INFERRED: The addToCart function only logs to console, with no UI notification implemented.",
+          "recommendation": "Add a toast notification or cart flyout when an item is successfully added.",
+          "isConfirmed": false,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Cart badge updated but no feedback shown to user"
+            },
+            {
+              "type": "console-error",
+              "description": "console.log: \"Item added to cart: ProBook Laptop\""
+            }
+          ],
+          "id": "finding_c2c813c4",
+          "journeyId": "d8667e47-d5b9-4846-b13e-3ecd64c790f1"
+        },
+        {
+          "title": "Order history always empty after purchase",
+          "description": "Immediately after placing an order, the Order History page shows \"No orders yet\" — orders are not persisted between page navigations.",
+          "severity": "high",
+          "category": "broken-flow",
+          "rootCauseHypothesis": "CONFIRMED: Order state is in-memory only (React Context). Navigation clears the state.",
+          "recommendation": "Persist orders to localStorage or a backend API. At minimum, pass order data via router state to the confirmation page.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Order History shows empty state immediately after confirmed purchase"
+            }
+          ],
+          "id": "finding_cdad4d04",
+          "journeyId": "d8667e47-d5b9-4846-b13e-3ecd64c790f1"
+        },
+        {
+          "title": "Duplicate navigation links in header",
+          "description": "The navbar contains two separate \"Home\" links — the logo and an explicit \"Home\" nav item — creating confusion about which to use.",
+          "severity": "medium",
+          "category": "confusing-navigation",
+          "rootCauseHypothesis": "CONFIRMED: Both the brand logo and a text link both route to \"/\".",
+          "recommendation": "Remove the redundant \"Home\" text link. The logo serves this purpose.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Two elements link to \"/\" in the top navigation"
+            }
+          ],
+          "id": "finding_b700d824",
+          "journeyId": "d8667e47-d5b9-4846-b13e-3ecd64c790f1"
+        }
+      ],
+      "frictionPoints": [],
+      "passedSteps": 15,
+      "failedSteps": 0,
+      "totalSteps": 15,
+      "goalCompletionRate": 100,
+      "recommendations": [
+        {
+          "title": "Payment gateway timeout causes silent failure",
+          "description": "The payment endpoint times out 40% of the time and the user sees a blank error page with no explanation or retry option.",
+          "severity": "critical",
+          "category": "error-handling",
+          "rootCauseHypothesis": "CONFIRMED: POST /api/orders returns 500 with a gateway timeout error. INFERRED: The timeout threshold is set too low.",
+          "recommendation": "Add a payment retry mechanism and show a user-friendly error with options: retry, use another payment method, or save cart.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "network-failure",
+              "description": "POST /api/orders returned HTTP 500 — gateway_timeout"
+            },
+            {
+              "type": "console-error",
+              "description": "Unhandled promise rejection: PaymentError: gateway_timeout"
+            }
+          ]
+        },
+        {
+          "title": "Login redirects to non-existent /dashboard route",
+          "description": "After successful login, users are redirected to /dashboard which does not exist, resulting in a 404 error.",
+          "severity": "critical",
+          "category": "broken-flow",
+          "rootCauseHypothesis": "CONFIRMED: The login success redirect is hardcoded to /dashboard. INFERRED: This was not updated when the dashboard route was removed.",
+          "recommendation": "Change the post-login redirect to /products or the user's intended destination.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "url-change",
+              "description": "Expected redirect to /products, got /dashboard (404)"
+            }
+          ]
+        },
+        {
+          "title": "No visual feedback when adding item to cart",
+          "description": "Clicking \"Add to Cart\" updates the cart count but shows no toast, animation, or confirmation. Users may click multiple times thinking the action failed.",
+          "severity": "high",
+          "category": "friction",
+          "rootCauseHypothesis": "INFERRED: The addToCart function only logs to console, with no UI notification implemented.",
+          "recommendation": "Add a toast notification or cart flyout when an item is successfully added.",
+          "isConfirmed": false,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Cart badge updated but no feedback shown to user"
+            },
+            {
+              "type": "console-error",
+              "description": "console.log: \"Item added to cart: ProBook Laptop\""
+            }
+          ]
+        },
+        {
+          "title": "Order history always empty after purchase",
+          "description": "Immediately after placing an order, the Order History page shows \"No orders yet\" — orders are not persisted between page navigations.",
+          "severity": "high",
+          "category": "broken-flow",
+          "rootCauseHypothesis": "CONFIRMED: Order state is in-memory only (React Context). Navigation clears the state.",
+          "recommendation": "Persist orders to localStorage or a backend API. At minimum, pass order data via router state to the confirmation page.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Order History shows empty state immediately after confirmed purchase"
+            }
+          ]
+        },
+        {
+          "title": "Duplicate navigation links in header",
+          "description": "The navbar contains two separate \"Home\" links — the logo and an explicit \"Home\" nav item — creating confusion about which to use.",
+          "severity": "medium",
+          "category": "confusing-navigation",
+          "rootCauseHypothesis": "CONFIRMED: Both the brand logo and a text link both route to \"/\".",
+          "recommendation": "Remove the redundant \"Home\" text link. The logo serves this purpose.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Two elements link to \"/\" in the top navigation"
+            }
+          ]
+        }
+      ],
+      "agentReasoningLog": [
+        {
+          "timestamp": "2026-10-04T07:51:06.967Z",
+          "phase": "observe",
+          "content": "Starting journey: \"Complete: Browse products and complete a purchase\" — Goal: \"Browse products and complete a purchase\""
+        },
+        {
+          "timestamp": "2026-10-04T07:51:06.967Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.494Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.494Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.506Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.506Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.524Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.524Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.539Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.539Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.573Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.573Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.607Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.607Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.641Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.641Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.674Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.674Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.708Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.708Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.741Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.741Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.774Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.774Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.807Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.807Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.841Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.841Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.874Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.874Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.908Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:51:09.908Z",
+          "phase": "observe",
+          "content": "Journey complete. Success: true. Passed: 15/15"
+        }
+      ]
+    },
+    {
+      "id": "report_55fd83bb",
+      "journeyId": "45b2e712-4f2e-4103-9b9c-088eec26d449",
+      "applicationId": "e5570d24-bcf2-4f62-a02b-489a3ba8ec76",
+      "generatedAt": "2026-10-04T07:53:13.509Z",
+      "score": 51,
+      "summary": "The purchase journey has critical failures at the payment stage. The user cannot complete their primary goal. Navigation and search work correctly but the checkout flow has a silent failure that results in cart abandonment and an unexplained error state.",
+      "findings": [
+        {
+          "title": "Payment gateway timeout causes silent failure",
+          "description": "The payment endpoint times out 40% of the time and the user sees a blank error page with no explanation or retry option.",
+          "severity": "critical",
+          "category": "error-handling",
+          "rootCauseHypothesis": "CONFIRMED: POST /api/orders returns 500 with a gateway timeout error. INFERRED: The timeout threshold is set too low.",
+          "recommendation": "Add a payment retry mechanism and show a user-friendly error with options: retry, use another payment method, or save cart.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "network-failure",
+              "description": "POST /api/orders returned HTTP 500 — gateway_timeout"
+            },
+            {
+              "type": "console-error",
+              "description": "Unhandled promise rejection: PaymentError: gateway_timeout"
+            }
+          ],
+          "id": "finding_866bfbb5",
+          "journeyId": "45b2e712-4f2e-4103-9b9c-088eec26d449"
+        },
+        {
+          "title": "Login redirects to non-existent /dashboard route",
+          "description": "After successful login, users are redirected to /dashboard which does not exist, resulting in a 404 error.",
+          "severity": "critical",
+          "category": "broken-flow",
+          "rootCauseHypothesis": "CONFIRMED: The login success redirect is hardcoded to /dashboard. INFERRED: This was not updated when the dashboard route was removed.",
+          "recommendation": "Change the post-login redirect to /products or the user's intended destination.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "url-change",
+              "description": "Expected redirect to /products, got /dashboard (404)"
+            }
+          ],
+          "id": "finding_e40cadff",
+          "journeyId": "45b2e712-4f2e-4103-9b9c-088eec26d449"
+        },
+        {
+          "title": "No visual feedback when adding item to cart",
+          "description": "Clicking \"Add to Cart\" updates the cart count but shows no toast, animation, or confirmation. Users may click multiple times thinking the action failed.",
+          "severity": "high",
+          "category": "friction",
+          "rootCauseHypothesis": "INFERRED: The addToCart function only logs to console, with no UI notification implemented.",
+          "recommendation": "Add a toast notification or cart flyout when an item is successfully added.",
+          "isConfirmed": false,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Cart badge updated but no feedback shown to user"
+            },
+            {
+              "type": "console-error",
+              "description": "console.log: \"Item added to cart: ProBook Laptop\""
+            }
+          ],
+          "id": "finding_9da3aa0d",
+          "journeyId": "45b2e712-4f2e-4103-9b9c-088eec26d449"
+        },
+        {
+          "title": "Order history always empty after purchase",
+          "description": "Immediately after placing an order, the Order History page shows \"No orders yet\" — orders are not persisted between page navigations.",
+          "severity": "high",
+          "category": "broken-flow",
+          "rootCauseHypothesis": "CONFIRMED: Order state is in-memory only (React Context). Navigation clears the state.",
+          "recommendation": "Persist orders to localStorage or a backend API. At minimum, pass order data via router state to the confirmation page.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Order History shows empty state immediately after confirmed purchase"
+            }
+          ],
+          "id": "finding_eacaaa8a",
+          "journeyId": "45b2e712-4f2e-4103-9b9c-088eec26d449"
+        },
+        {
+          "title": "Duplicate navigation links in header",
+          "description": "The navbar contains two separate \"Home\" links — the logo and an explicit \"Home\" nav item — creating confusion about which to use.",
+          "severity": "medium",
+          "category": "confusing-navigation",
+          "rootCauseHypothesis": "CONFIRMED: Both the brand logo and a text link both route to \"/\".",
+          "recommendation": "Remove the redundant \"Home\" text link. The logo serves this purpose.",
+          "isConfirmed": true,
+          "evidence": [
+            {
+              "type": "observation",
+              "description": "Two elements link to \"/\" in the top navigation"
+            }
+          ],
+          "id": "finding_14c65178",
+          "journeyId": "45b2e712-4f2e-4103-9b9c-088eec26d449"
+        }
+      ],
+      "frictionPoints": [],
+      "passedSteps": 15,
+      "failedSteps": 0,
+      "totalSteps": 15,
+      "goalCompletionRate": 100,
+      "recommendations": [
+        {
+          "priority": "high",
+          "title": "Fix payment timeout error handling",
+          "description": "Add a retry mechanism and user-friendly error message when payment gateway times out. Show the user clear options: retry, try another payment method, or save cart.",
+          "affectedStep": "Payment"
+        },
+        {
+          "priority": "high",
+          "title": "Fix post-login redirect to /dashboard",
+          "description": "Change the successUrl in the login handler from /dashboard (which does not exist) to /products.",
+          "affectedStep": "Login"
+        },
+        {
+          "priority": "high",
+          "title": "Add cart feedback animation",
+          "description": "Show a visual confirmation (toast, badge update, mini-cart flyout) when an item is successfully added to cart.",
+          "affectedStep": "Product Detail"
+        },
+        {
+          "priority": "medium",
+          "title": "Add payment processing indicator",
+          "description": "Show a loading spinner or progress bar during payment processing so the user knows their request is being handled.",
+          "affectedStep": "Payment"
+        },
+        {
+          "priority": "medium",
+          "title": "Persist orders between page navigations",
+          "description": "Store placed orders in localStorage or a backend endpoint so Order History is populated immediately after checkout.",
+          "affectedStep": "Order History"
+        },
+        {
+          "priority": "high",
+          "title": "Fix payment timeout error handling",
+          "description": "Add a retry mechanism and user-friendly error message when payment gateway times out. Show the user clear options: retry, try another payment method, or save cart.",
+          "affectedStep": "Payment"
+        },
+        {
+          "priority": "high",
+          "title": "Fix post-login redirect to /dashboard",
+          "description": "Change the successUrl in the login handler from /dashboard (which does not exist) to /products.",
+          "affectedStep": "Login"
+        },
+        {
+          "priority": "high",
+          "title": "Add cart feedback animation",
+          "description": "Show a visual confirmation (toast, badge update, mini-cart flyout) when an item is successfully added to cart.",
+          "affectedStep": "Product Detail"
+        },
+        {
+          "priority": "medium",
+          "title": "Add payment processing indicator",
+          "description": "Show a loading spinner or progress bar during payment processing so the user knows their request is being handled.",
+          "affectedStep": "Payment"
+        },
+        {
+          "priority": "medium",
+          "title": "Persist orders between page navigations",
+          "description": "Store placed orders in localStorage or a backend endpoint so Order History is populated immediately after checkout.",
+          "affectedStep": "Order History"
+        }
+      ],
+      "agentReasoningLog": [
+        {
+          "timestamp": "2026-10-04T07:53:12.212Z",
+          "phase": "observe",
+          "content": "Starting journey: \"Complete: Browse products and complete a purchase\" — Goal: \"Browse products and complete a purchase\""
+        },
+        {
+          "timestamp": "2026-10-04T07:53:12.212Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.049Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.049Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.075Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.075Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.107Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.107Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.141Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.141Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.174Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.174Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.208Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.208Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.242Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.242Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.275Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.275Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.308Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.308Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.342Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.342Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.373Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.374Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.408Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.408Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.441Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.441Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.474Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.474Z",
+          "phase": "act",
+          "content": "Executing step: TechMart — Demo Shop"
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.507Z",
+          "phase": "observe",
+          "content": "Page loaded successfully. URL matches expectation."
+        },
+        {
+          "timestamp": "2026-10-04T07:53:13.507Z",
+          "phase": "observe",
+          "content": "Journey complete. Success: true. Passed: 15/15"
         }
       ]
     }

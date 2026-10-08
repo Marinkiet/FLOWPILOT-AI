@@ -20,16 +20,16 @@ export class MockLLMProvider extends BaseLLMProvider {
       content = this.mockDiscovery();
     } else if (lastMessage.includes('journey') && lastMessage.includes('steps')) {
       content = this.mockJourneyPlanning();
+    } else if (lastMessage.includes('prioritized recommendations') || lastMessage.includes('journey optimiz') || (lastMessage.includes('recommend') && lastMessage.includes('priority'))) {
+      content = this.mockRecommendations();
     } else if (lastMessage.includes('quality finding') || lastMessage.includes('identify quality')) {
       content = this.mockFindings();
     } else if (lastMessage.includes('analyze') || lastMessage.includes('deviation') || lastMessage.includes('friction pattern')) {
       content = this.mockAnalysis();
     } else if (lastMessage.includes('investigate') || lastMessage.includes('root cause')) {
       content = this.mockInvestigation();
-    } else if (lastMessage.includes('report') || lastMessage.includes('executive summary')) {
+    } else if (lastMessage.includes('executive summary') || lastMessage.includes('concise')) {
       content = this.mockReport();
-    } else if (lastMessage.includes('recommend') || lastMessage.includes('improve') || lastMessage.includes('optimization')) {
-      content = this.mockRecommendations();
     } else if (lastMessage.includes('assess') || lastMessage.includes('passed or failed')) {
       content = this.mockStepAssessment();
     } else {

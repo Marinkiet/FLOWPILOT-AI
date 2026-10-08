@@ -94,7 +94,7 @@ export class QualityInvestigatorAgent implements IQualityInvestigator {
     analysis: AnalysisResult
   ): Promise<Recommendation[]> {
     const prompt = `
-Based on these quality findings and friction points, generate prioritized recommendations:
+Based on these quality findings and friction points, generate prioritized recommendations with priority field:
 
 Findings:
 ${analysis.findings.map((f) => `[${f.severity}] ${f.title}: ${f.description}`).join('\n')}
